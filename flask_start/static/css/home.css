@@ -1,0 +1,95 @@
+#a1 {
+    width: 100%;
+    height: auto;
+
+}
+
+/* 取消8xp的margin */
+body {
+    margin: 0px;
+}
+
+.a2 {
+    font-size: calc(100vw * 47 / 1920);
+    text-align: center;
+    color: rgba(25, 87, 98, 0.8);
+    font-family: "楷体", "宋体";
+    line-height: 30px;
+    /* font-size: 62px; */
+    /* border: 2px dashed rgba(0,0,0,0.3); */
+    /* font-size: (1920/100)px; */
+
+}
+
+#a3 {
+    font-size: calc(100vw * 97 / 1920);
+    text-align: center;
+    color: rgba(210, 34, 45, 0.5);
+    font-family: "楷体", "宋体";
+    line-height: 30px;
+
+}
+
+#a4 {
+    font-size: calc(100vw * 37 / 1920);
+    text-align: center;
+    color: rgba(87, 87, 87, 0.5);
+    font-family: "楷体", "宋体";
+    line-height: 30px;
+
+}
+
+#a5 {
+    font-size: calc(100vw * 27 / 1920);
+    text-align: center;
+    color: rgba(87, 87, 87, 0.5);
+    font-family: "楷体", "宋体";
+    line-height: 10px;
+}
+
+#d21 {
+    display: table-cell;
+    /* 垂直居中 */
+    vertical-align: middle;
+    /* 水平居中 */
+    text-align: center;
+    /*width: 100%;
+    height: auto; */
+}
+
+#d22 {
+    width: 100%;
+    height: auto;
+}
+
+#d23 {
+    /* text-decoration:none; */
+    font-size: calc(100vw * 47 / 1920);
+    text-align: center;
+    color: orangered;
+    font-family: "楷体", "宋体";
+    line-height: 30px;
+
+}
+
+#d23:hover {
+    /* background-color: green; */
+    color: yellowgreen;
+    background-size: inherit;
+    text-decoration: none;
+}
+
+#downfile {
+        border: 2px solid #ccc;
+        padding: 20px;
+        text-align: center;
+        margin: 0 10px 15px;
+        width: calc(800vw * 37 / 1920);
+        /*height: calc(400vw * 37 / 1920);*/
+}
+
+#a111{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        }

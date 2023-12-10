@@ -1,0 +1,77 @@
+.header {
+    height: calc(75vw * 80 / 1920);
+    width: 100%;
+    background: rgba(25, 87, 98, 0.8);
+    color: #f0f0f0;
+    text-align: center;
+}
+
+.footer {
+    height: auto;
+    width: 100%;
+    background: dimgray;
+    color: #f0f0f0;
+    text-align: center;
+}
+.footer a {
+    height: auto;
+    width: 100%;
+    background: dimgray;
+    color: #f0f0f0;
+    text-align: center;
+}
+
+.header_a {
+    float: left;
+    color: #f0f0f0;
+    margin-left: 5%;
+    text-decoration: None;
+    font-size: calc(75vw * 40 / 1920);
+}
+
+
+.container {
+    height: 100%;
+    width: 100%;
+    margin-bottom: 2px;
+    margin-top: 1px;
+    /*border: 1px solid #f30;*/
+}
+
+.footer {
+    font-size: calc(100vw * 18 / 1920);
+    text-align: center;
+    height: auto;
+}
+
+
+/* 取消8xp的margin */
+body {
+    margin: 0px;
+}
+
+.header_n {
+    float: right;
+    color: #f0f0f0;
+    margin-right: 5px;
+    text-decoration: None;
+    font-size: calc(75vw * 40 / 1920);
+}
+
+.header_n:hover {
+    float: right;
+    /*font-size: calc(75vw * 42 / 1920);*/
+    /*font-weight: 700;*/
+    color: #ff3300;
+    text-decoration: None;
+}
+
+
+
+
+
+
+
+
+
+
